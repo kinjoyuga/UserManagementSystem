@@ -1,0 +1,4 @@
+# デフォルトの無視対象ファイル
+/.idea/
+/out/
+/User management system.iml/
